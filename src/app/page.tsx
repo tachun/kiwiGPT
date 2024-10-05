@@ -1,5 +1,5 @@
-import { GptInterface } from "@/components/gpt-interface";
+import { ChatInterface } from "@/components/ChatInterface";
 
 export default function Home() {
-  return <GptInterface />;
+  return <ChatInterface />;
 }
