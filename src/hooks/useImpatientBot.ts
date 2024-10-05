@@ -51,8 +51,8 @@ export function useImpatientBot() {
           } else {
             response =
               newLanguage === "en"
-                ? "It's none of my business. Stop bothering me."
-                : "Ce ne sont pas mes affaires. Arrêtez de m'embêter.";
+                ? "It's none of my business!!! Fuck off!!!"
+                : "Je m'en bat les couilles!!!";
           }
 
           setIsLoading(false);
